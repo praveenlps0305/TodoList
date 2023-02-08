@@ -1,0 +1,6 @@
+.container {
+	background-color: burlywood;
+	color: black;
+	padding: 20px 40px;
+	min-height: 100vh;
+}

@@ -1,0 +1,14 @@
+ul {
+	list-style-type: none;
+	border-radius: 1rem;
+	padding: 0.5rem;
+	border: 2px solid #20262e;
+}
+li {
+	margin: 0.5rem 0;
+	padding: 1rem 2rem;
+	border-radius: 1rem;
+	cursor: pointer;
+	border: 1px solid transparent;
+	transition: 0.3s;
+}
